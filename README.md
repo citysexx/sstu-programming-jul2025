@@ -13,7 +13,7 @@ Variant 12 - 15
 1. Клонируйте репозиторий:
 
 ```bash
-git clone git@github.com:citysexx/sstu-programming-jul2025.git
+git clone https://github.com/citysexx/sstu-programming-jul2025.git
 ```
 
 2. Зайдите в репозиторий:
