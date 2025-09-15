@@ -6,7 +6,7 @@ Variant 12 - 15
 ## Требования для запуску
 
 1. UNIX операционная система (`Linux`, `MacOS`);
-2. `docker`, `docker-buildx`, 'docker-compose' на системе.
+2. `docker`, `docker-buildx`, `docker-compose` на системе.
 
 ## Инструкция по запуску
 
