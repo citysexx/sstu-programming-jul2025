@@ -1,0 +1,6 @@
+services:
+  c-app:
+    build: .
+    container_name: c_app
+    stdin_open: true
+    tty: true
